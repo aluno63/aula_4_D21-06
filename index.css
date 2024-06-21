@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+}
+img{
+    border: blue 5px solid;
+    width: 640px;
+    height: 460px;
+    border-radius: 30px;
+}
